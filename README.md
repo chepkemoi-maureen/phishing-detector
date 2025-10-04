@@ -3,7 +3,7 @@
 A machine learning-powered web app that detects phishing URLs in real time.
 
 ## Live Demo
-🔗 [Visit the app](https://phishing-detector.onrender.com)
+🔗 [Visit the app](https://phishing-detector-1-cn3p.onrender.com/))
 
 ##  How It Works
 - Built with **Flask**, **scikit-learn**, and **pandas**
